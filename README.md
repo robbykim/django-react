@@ -1,5 +1,5 @@
 # django-react
-An incredibly minimal boilerplate project setup for Django and React. Built with create-react-app and Django
+An incredibly minimal boilerplate project setup for Django and React. Built with create-react-app and Django and glue code to link the two.
 
 ## Setup
 
